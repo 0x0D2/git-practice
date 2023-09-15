@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Lukegit 
 
+<<<<<<< HEAD
 coach : Nicholas
+=======
+coach : Melissa
+>>>>>>> 3b7a665 (Edit Leopards)
 
 members:
 - Linda
